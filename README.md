@@ -1,1 +1,1 @@
-Classic snake game made in python
+Classic snake game made in python.
