@@ -1,4 +1,4 @@
-Snake Game
+Snake Game.
 
 A classic snake game implemented in Python, created using PyCharm.
 Table of Contents
